@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="titulo">Pulsa el boton para generar una historia</string>
+    <string name="boton">Generar una historia</string>
+    ```xml
+
+
+        <string-array name="introducciones">
+            <item>Una mañana, Abi se despertó y descubrió que su gato sabía hablar.</item>
+            <item>Todo empezó cuando Abi encontró una puerta misteriosa en medio del monte.</item>
+            <item>Un martes cualquiera, Abi recibió un mensaje de su propio yo del futuro.</item>
+            <item>Abi salió de casa para comprar leche y terminó en una aventura inesperada.</item>
+            <item>Una noche, Abi escuchó unos ruidos extraños debajo de la cama.</item>
+            <item>Abi estaba tranquilamente tomando un café cuando un pato entró por la ventana.</item>
+            <item>Al levantarse, Abi descubrió que todos los objetos de su casa habían cambiado de sitio.</item>
+            <item>Abi encontró un extraño mapa escondido dentro de un libro viejo.</item>
+            <item>Todo comenzó cuando Abi decidió seguir a un perro que llevaba una mochila.</item>
+            <item>Abi se despertó una mañana y descubrió que podía entender a los animales.</item>
+        </string-array>
+
+
+        <string-array name="desarrollos">
+            <item>El gato le explicó que necesitaban encontrar una pizza perdida antes del amanecer.</item>
+            <item>Al cruzarla, apareció en un lugar donde los árboles podían moverse y hablar.</item>
+            <item>Su yo del futuro le advirtió que no debía confiar en ninguna paloma.</item>
+            <item>Por el camino conoció a un hombre que aseguraba ser el alcalde secreto de todos los pueblos.</item>
+            <item>Debajo de la cama encontró un ejército de calcetines que llevaba años preparando una revolución.</item>
+            <item>El pato la llevó hasta un supermercado abandonado donde todo estaba colocado al revés.</item>
+            <item>Después de investigar, descubrió que alguien estaba cambiando las cosas mientras ella dormía.</item>
+            <item>El mapa la llevó hasta una casa escondida donde vivía una anciana que coleccionaba cucharas.</item>
+            <item>El perro la condujo hasta un bosque donde todos los animales llevaban sombreros.</item>
+            <item>Gracias a su nuevo poder, descubrió que los animales llevaban años organizando reuniones secretas.</item>
+        </string-array>
+
+
+        <string-array name="finales">
+            <item>Al final, todo se solucionó con una tortilla de patatas y una buena siesta.</item>
+            <item>Desde aquel día, Abi decidió no volver a abrir ninguna puerta sospechosa.</item>
+            <item>Cuando todo terminó, nadie volvió a hablar de aquella noche.</item>
+            <item>Al final descubrieron que todo había sido culpa de una paloma con demasiado tiempo libre.</item>
+            <item>Después de aquello, Abi volvió a casa como si nada hubiera pasado.</item>
+            <item>Y así fue como Abi terminó siendo famosa en todo el pueblo.</item>
+            <item>Al final, el misterio quedó sin resolver, pero al menos consiguieron cenar.</item>
+            <item>Desde entonces, cada vez que Abi veía un pato, cambiaba de acera.</item>
+            <item>La aventura terminó justo cuando sonó la alarma y Abi comprendió que todo había sido un sueño.</item>
+            <item>Y desde aquel día, nadie volvió a subestimar el poder de una simple cuchara.</item>
+        </string-array>
+
+
+    
+</resources>
